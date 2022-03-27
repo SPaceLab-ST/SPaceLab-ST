@@ -1,0 +1,43 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.project-icaro-backgroud{
+    background-color: #004aad;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar{
+    height: 55px;
+    width: 100%;
+}
+
+img.logo{
+    width: 150px;
+    height: auto;
+}
+
+.main-content{
+    background-color: #fef5e7 ;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.main-text-content{
+    text-align: justify;
+}
+
+.video-yt{
+    margin: 15px 0px;
+}
+
+.fa-brands{
+    margin-right: 5px;
+}
